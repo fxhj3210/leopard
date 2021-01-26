@@ -59,3 +59,11 @@
 {"level":"info","msg":"日志等级为：5","time":"2021-01-25T22:00:53+08:00"}
 {"file":"C:/Users/Administrator/go/src/leopard/model/init.go:18","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-25T22:00:53+08:00"}
 {"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:26","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-25T22:00:53+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-26T20:54:21+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-26T20:54:21+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-26T20:54:21+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:27","func":"leopard/cache.Redis","level":"panic","msg":"连接Redis不成功dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.","time":"2021-01-26T20:54:22+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-26T20:54:47+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-26T20:54:47+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-26T20:54:47+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-26T20:54:47+08:00"}
