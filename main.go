@@ -2,13 +2,15 @@ package main
 
 import (
 	"leopard/conf"
+	"leopard/server"
 )
 
 func main() {
 	// 初始化环境
 	conf.Init()
 
-	//业务模块
-	print("测试控制器分支")
+	// 装载路由
+	r := server.NewRouter()
+	_ = r.Run(":3000")
 
 }
