@@ -9,6 +9,6 @@ func main() {
 	conf.Init()
 
 	//业务模块
-	print("测试工作机分支")
+	print("测试控制器分支")
 
 }
