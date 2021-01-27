@@ -5,3 +5,4 @@ import (
 )
 
 var Log = logrus.New()
+var WorkerWs = workerWsInit()

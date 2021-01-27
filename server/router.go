@@ -2,13 +2,12 @@ package server
 
 import (
 	"fmt"
-	"golang.org/x/net/websocket"
+	"github.com/gin-contrib/cors"
 	"leopard/api"
+	"leopard/global"
 	"leopard/middleware"
-	"log"
-	"time"
-
-	"os"
+	"net/http"
+	"strings"
 
 	"github.com/gin-gonic/gin"
 )
@@ -18,15 +17,21 @@ func NewRouter() *gin.Engine {
 	r := gin.Default()
 
 	// 中间件, 顺序不能改
-	r.Use(middleware.Session(os.Getenv("SESSION_SECRET")))
-	r.Use(middleware.Cors())
-	r.Use(middleware.CurrentUser())
+	//r.Use(middleware.Session(os.Getenv("SESSION_SECRET")))
+	//r.Use(middleware.Cors())
+	//r.Use(middleware.CurrentUser())
+	config := cors.DefaultConfig()
+	config.AllowOrigins = []string{"http://127.0.0.1:9090"}
+	r.Use(Cors())
 
 	// 路由
 	v1 := r.Group("/api/v1")
 	{
 		v1.POST("ping", api.Ping)
-		//TODO:https://github.com/yangyongzhen/gin-websocket
+
+		//ws
+		//https://github.com/yangyongzhen/gin-websocket
+		v1.GET("worker/ws", global.WorkerWs.Handler())
 
 		// 用户登录
 		v1.POST("user/register", api.UserRegister)
@@ -47,22 +52,40 @@ func NewRouter() *gin.Engine {
 	return r
 }
 
-// websocket连接处理
-func WsConnHandle(conn *websocket.Conn) {
-	for {
-		fmt.Println("6666")
-		var msg string
-		if err := websocket.Message.Receive(conn, &msg); err != nil {
-			log.Println(err)
-			return
+//解决跨域
+func Cors() gin.HandlerFunc {
+	return func(c *gin.Context) {
+		method := c.Request.Method
+
+		origin := c.Request.Header.Get("Origin")
+		var headerKeys []string
+		for k, _ := range c.Request.Header {
+			headerKeys = append(headerKeys, k)
+		}
+		headerStr := strings.Join(headerKeys, ", ")
+		if headerStr != "" {
+			headerStr = fmt.Sprintf("access-control-allow-origin, access-control-allow-headers, %s", headerStr)
+		} else {
+			headerStr = "access-control-allow-origin, access-control-allow-headers"
+		}
+		if origin != "" {
+			//下面的都是乱添加的-_-~
+			// c.Writer.Header().Set("Access-Control-Allow-Origin", "*")
+			c.Header("Access-Control-Allow-Origin", "http://127.0.0.1:9090")
+			c.Header("Access-Control-Allow-Headers", headerStr)
+			c.Header("Access-Control-Allow-Methods", "POST, GET, OPTIONS, PUT, DELETE")
+			// c.Header("Access-Control-Allow-Headers", "Authorization, Content-Length, X-CSRF-Token, Accept, Origin, Host, Connection, Accept-Encoding, Accept-Language,DNT, X-CustomHeader, Keep-Alive, User-Agent, X-Requested-With, If-Modified-Since, Cache-Control, Content-Type, Pragma")
+			c.Header("Access-Control-Expose-Headers", "Content-Length, Access-Control-Allow-Origin, Access-Control-Allow-Headers, Content-Type")
+			// c.Header("Access-Control-Max-Age", "172800")
+			c.Header("Access-Control-Allow-Credentials", "true")
+			c.Set("content-type", "application/json")
 		}
 
-		log.Printf("recv: %v", msg)
-
-		data := []byte(time.Now().Format(time.RFC3339))
-		if _, err := conn.Write(data); err != nil {
-			log.Println(err)
-			return
+		//放行所有OPTIONS方法
+		if method == "OPTIONS" {
+			c.JSON(http.StatusOK, "Options Request!")
 		}
+
+		c.Next()
 	}
 }
