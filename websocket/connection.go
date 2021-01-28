@@ -126,7 +126,7 @@ type (
 	// (because websocket server automatically leaves from all joined rooms)
 	LeaveRoomFunc func(roomName string)
 	// ErrorFunc is the callback which fires whenever an error occurs
-	ErrorFunc (func(error))
+	ErrorFunc func(error)
 	// NativeMessageFunc is the callback for native websocket messages, receives one []byte parameter which is the raw client's message
 	NativeMessageFunc func([]byte)
 	// MessageFunc is the second argument to the Emitter's Emit functions.
