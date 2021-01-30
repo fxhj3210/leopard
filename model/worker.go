@@ -1,12 +1,21 @@
 package model
 
-/*
-WorkerInfo
-这个仅存在于内存中,不涉及数据库,当建立WebSocket连接时,首次更新信息
-也就是说等待客户端主动连接,客户端自动寻找同网段的服务器.客户端一旦与服务器取得连接,自动汇报自己的情况
-*/
-type WorkerInfo struct {
-	ID   string
-	free bool //空闲状态
+var WorkerWsList map[string]Worker //前面的string便是当前的ws连接号
 
+type WsProtocol struct {
+	CommandType string `json:"commandType"` //命令类型,进入路由的
+	Body        string `json:"body"`
+	Time        int64  `json:"time"`
+}
+type Worker struct {
+	Info WorkerInfo `json:"workerInfo"`
+}
+
+type WorkerInfo struct {
+	Nickname   string `json:"nickname"`
+	InternetIp string `json:"internetIp"`
+	LanIp      string `json:"lanIp"`
+	Free       bool   `json:"free"`
+	CpuLoad    int64  `json:"cpuLoad"`
+	MemoryLoad int64  `json:"memory"`
 }

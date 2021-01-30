@@ -2,22 +2,21 @@ package serializer
 
 import (
 	"encoding/json"
+	"fmt"
 	"leopard/model"
 	"time"
 )
 
 //WsSerializerReq 序列化
-func WsSerializerReq(commandType string, data string) []byte {
-	jsonByte, _ := json.Marshal(model.WsProtocol{
-		CommandType: commandType,
-		Body:        data,
-		Time:        time.Now().Unix(),
-	})
+func WsSerializerReq(d model.WsProtocol) []byte {
+	d.Time = time.Now().Unix()
+	jsonByte, _ := json.Marshal(d)
 	return jsonByte
 }
 
 //WsDeserialization 反序列化
-func WsDeserialization(data []byte) (m model.WsProtocol, err error) {
+func WsDeserialization(data []byte) (m *model.WsProtocol, err error) {
+	fmt.Println(string(data))
 	err = json.Unmarshal(data, &m)
 	if err != nil {
 		return m, err

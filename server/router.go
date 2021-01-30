@@ -5,7 +5,6 @@ import (
 	"github.com/gin-contrib/cors"
 	"leopard/api"
 	"leopard/middleware"
-	"leopard/service"
 	"net/http"
 	"strings"
 
@@ -31,7 +30,7 @@ func NewRouter() *gin.Engine {
 
 		//ws
 		//https://github.com/yangyongzhen/gin-websocket
-		v1.GET("worker/ws", service.WorkerWs.Handler())
+		v1.GET("worker/ws", WorkerWs.Handler())
 
 		// 用户登录
 		v1.POST("user/register", api.UserRegister)

@@ -270,3 +270,328 @@
 {"level":"info","msg":"日志等级为：5","time":"2021-01-28T17:36:52+08:00"}
 {"file":"D:/Users/Administrator.PC-20201229PWKW/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-28T17:36:52+08:00"}
 {"file":"D:/Users/Administrator.PC-20201229PWKW/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-28T17:36:52+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:12:25+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:12:25+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:12:25+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:27","func":"leopard/cache.Redis","level":"panic","msg":"连接Redis不成功dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.","time":"2021-01-30T12:12:26+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:15:19+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:15:19+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:15:19+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:27","func":"leopard/cache.Redis","level":"panic","msg":"连接Redis不成功dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.","time":"2021-01-30T12:15:20+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:17:09+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:17:09+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:17:09+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T12:17:09+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:20:27+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:20:27+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:20:27+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T12:20:27+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:21:06+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:21:06+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:21:06+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T12:21:06+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:21:31+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:21:31+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:21:31+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T12:21:31+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:22:03+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:22:03+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:22:03+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T12:22:03+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:26:26+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:26:26+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:26:26+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T12:26:26+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:27:50+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:27:50+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:27:50+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T12:27:50+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/worker_ws_router.go:40","func":"leopard/server.handleConnection.func2","level":"warning","msg":"\u0026{\u003cnil\u003e 0xc000088000 b5a5aaf1-bd60-4c24-872a-394f1f920cdd 1 false [0xa9b800] [] [0xa9b660] [] [] [0xa9b470] map[chat:[0xa9b2d0]] true 0xc0001c8960 0xc0001c8980 0xc0001c89a0 0xc0003e4d20 [] 0xc000448a80 {0 0}}无法理解命令含义","time":"2021-01-30T12:27:55+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:28:42+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:28:42+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:28:42+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T12:28:42+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/worker_ws_router.go:40","func":"leopard/server.handleConnection.func2","level":"warning","msg":"51355d7a-9afe-4a65-a7b4-475729f559c5无法理解命令含义","time":"2021-01-30T12:28:49+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:29:24+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:29:24+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:29:24+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T12:29:25+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/worker_ws_router.go:40","func":"leopard/server.handleConnection.func2","level":"warning","msg":"e72fb105-f961-4a0b-8d6e-6d02f7286a95[123 34 97 34 58 34 49 34 125]无法理解命令含义","time":"2021-01-30T12:29:31+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T12:31:33+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T12:31:33+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T12:31:33+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T12:31:33+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/worker_ws_router.go:40","func":"leopard/server.handleConnection.func2","level":"warning","msg":"WsID:cad2d7ed-cb1f-4450-84d4-04ae1db9a331|Msg:{\"a\":\"1\"}|Err:无法理解命令含义","time":"2021-01-30T12:31:41+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T13:00:49+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T13:00:49+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T13:00:49+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T13:00:49+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T13:01:04+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T13:01:04+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T13:01:04+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T13:01:04+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T13:07:22+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T13:07:22+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T13:07:22+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T13:07:22+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/worker_ws_router.go:57","func":"leopard/server.handleConnection.func2","level":"warning","msg":"WorkerWsErr:websocket: close 1005 (no status)","time":"2021-01-30T13:07:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/worker_ws_router.go:61","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:8276cdff-bd26-487c-b06f-3253bae241f0","time":"2021-01-30T13:07:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/worker_ws_router.go:57","func":"leopard/server.handleConnection.func2","level":"warning","msg":"WorkerWsErr:websocket: close 1005 (no status)","time":"2021-01-30T13:07:33+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/worker_ws_router.go:61","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:c904d0bc-9571-4524-8004-c9c08e7025d8","time":"2021-01-30T13:07:33+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T13:08:44+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T13:08:44+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T13:08:44+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T13:08:45+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/worker_ws_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:143c740b-c360-4f49-b413-5ae94f1f435e|Msg:{\"commandType\":\"Identifying\",\"body\":\"\",\"time\":1611983253}|Err:无法理解命令含义","time":"2021-01-30T13:09:12+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/worker_ws_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:143c740b-c360-4f49-b413-5ae94f1f435e|Msg:{\"commandType\":\"Identifying\"}|Err:无法理解命令含义","time":"2021-01-30T13:09:21+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T13:50:06+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T13:50:06+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T13:50:06+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T13:50:06+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:00:18+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:00:18+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:00:18+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:00:18+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:c247dc00-aab5-444d-b833-686a60451829|Msg:{\"commandType\":\"Identifying\",\"body\":\"\",\"time\":1611986428}|Err:无法理解命令含义","time":"2021-01-30T14:00:40+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:c247dc00-aab5-444d-b833-686a60451829|Msg:{\"commandType\":\"identifying\"}|Err:unexpected end of JSON input","time":"2021-01-30T14:01:25+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:c247dc00-aab5-444d-b833-686a60451829|Msg:{\"commandType\":\"identifying\",\"body\":\"a\"}|Err:invalid character 'a' looking for beginning of value","time":"2021-01-30T14:02:25+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:c247dc00-aab5-444d-b833-686a60451829|Msg:{\"commandType\":\"identifying\",\"body\":\"a\"}|Err:invalid character 'a' looking for beginning of value","time":"2021-01-30T14:03:41+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:c247dc00-aab5-444d-b833-686a60451829|Msg:{\"commandType\":\"identifying\",\"body\":{\"WorkerInfo\":{\"Nickname\":66666}}}|Err:json: cannot unmarshal object into Go struct field WsProtocol.body of type string","time":"2021-01-30T14:06:10+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:c247dc00-aab5-444d-b833-686a60451829|Msg:{\"commandType\":\"identifying\",\"body\":{\"WorkerInfo\":{\"Nickname\":\"yiss\"}}}|Err:json: cannot unmarshal object into Go struct field WsProtocol.body of type string","time":"2021-01-30T14:06:44+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:07:50+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:07:50+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:07:50+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:07:50+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:80585986-f195-4383-95da-b88fa34e859c|Msg:{\"commandType\":\"identifying\",\"body\":{\"workerInfo\":{\"nickname\":\"yiss\"}}}|Err:json: cannot unmarshal object into Go struct field WsProtocol.body of type string","time":"2021-01-30T14:08:10+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:09:18+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:09:18+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:09:18+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:09:18+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:0840d9e0-1359-4632-ac97-2ee306b99fb3|Msg:{\"commandType\":\"identifying\",\"body\":{\"workerInfo\":{\"nickname\":\"yiss\"}}}|Err:json: cannot unmarshal object into Go struct field WsProtocol.body of type string","time":"2021-01-30T14:09:30+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:10:46+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:10:46+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:10:46+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:10:46+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:0b3d4a0b-946a-4e78-82a8-c85124127555|Msg:{\"commandType\":\"identifying\",\"body\":{\"workerInfo\":{\"nickname\":\"yiss\"}}}|Err:json: cannot unmarshal object into Go struct field WsProtocol.body of type string","time":"2021-01-30T14:10:50+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:11:05+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:11:05+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:11:05+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:11:05+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:3e777f0f-6b0f-4b52-b4ee-b93f9698f49a|Msg:{\"commandType\":\"identifying\",\"body\":{\"workerInfo\":{\"nickname\":\"yiss\"}}}|Err:json: cannot unmarshal object into Go struct field WsProtocol.body of type string","time":"2021-01-30T14:11:14+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:12:36+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:12:36+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:12:36+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:12:36+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:341a2ca9-14c7-4caa-bfb2-b454e40c6e0a|Msg:{\"commandType\":\"identifying\",\"body\":{\"workerInfo\":{\"nickname\":\"yiss\"}}}|Err:json: cannot unmarshal object into Go struct field WsProtocol.body of type string","time":"2021-01-30T14:12:43+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:14:35+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:14:35+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:14:35+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:14:35+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:eddf90c2-191d-4b9c-b8b6-4b365c3d386a|Msg:{\"commandType\":\"identifying\",\"body\":{\"workerInfo\":{\"nickname\":\"yiss\"}}}|Err:json: cannot unmarshal object into Go struct field WsProtocol.body of type string","time":"2021-01-30T14:14:44+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:15:09+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:15:09+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:15:09+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:15:09+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:b138522b-3fcc-4b6f-8853-706cb7bdaa46|Msg:{\"commandType\":\"identifying\",\"body\":{\"workerInfo\":{\"nickname\":\"yiss\"}}}|Err:json: cannot unmarshal object into Go struct field WsProtocol.body of type string","time":"2021-01-30T14:17:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:b138522b-3fcc-4b6f-8853-706cb7bdaa46|Msg:{\"commandType\":\"identifying\",\"body\":{\"a\":\"aa\"}}|Err:json: cannot unmarshal object into Go struct field WsProtocol.body of type string","time":"2021-01-30T14:19:06+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:b138522b-3fcc-4b6f-8853-706cb7bdaa46|Msg:{\"commandType\":\"identifying\",\"body\":\"a\"}|Err:invalid character 'a' looking for beginning of value","time":"2021-01-30T14:20:11+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:26:35+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:26:35+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:26:35+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:26:35+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:6344b566-72dd-418a-a4c9-c225dd8fe6b7|Msg:DD|Err:invalid character 'D' looking for beginning of value","time":"2021-01-30T14:26:46+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:6344b566-72dd-418a-a4c9-c225dd8fe6b7|Msg:{\"commandType\":\"identifying\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":false,\\\"cpuLoad\\\":0,\\\"memory\\\":0}}\"|Err:unexpected end of JSON input","time":"2021-01-30T14:27:58+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:29:29+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:29:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:29:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:29:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:77639ea1-11c8-40ff-b7d9-36c7dbcae8b2|Msg:{\"commandType\":\"this\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":false,\\\"cpuLoad\\\":0,\\\"memory\\\":0}}\",\"time\":1611988078}|Err:无法理解命令含义","time":"2021-01-30T14:29:42+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:77639ea1-11c8-40ff-b7d9-36c7dbcae8b2|Msg:{\"commandType\":\"identifying\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":false,\\\"cpuLoad\\\":0,\\\"memory\\\":0}}\"|Err:unexpected end of JSON input","time":"2021-01-30T14:30:02+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:77639ea1-11c8-40ff-b7d9-36c7dbcae8b2|Msg:{\"commandType\":\"identifying\",\"body\":\"{\"workerInfo\":{\"nickname\":\"\",\"free\":false,\"cpuLoad\":0,\"memory\":0}}\"|Err:invalid character 'w' after object key:value pair","time":"2021-01-30T14:30:38+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:32:43+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:32:43+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:32:43+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:32:44+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:d61f87eb-1abf-493d-bf93-f449bf1c291e|Msg:{\"commandType\":\"identifying\",\"body\":\"{\"workerInfo\":{\"nickname\":\"\",\"free\":false,\"cpuLoad\":0,\"memory\":0}}\"|Err:invalid character 'w' after object key:value pair","time":"2021-01-30T14:32:52+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:33:23+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:33:23+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:33:23+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:33:23+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:853dd83d-ccae-424d-9fac-54c177c5d276|Msg:{\"commandType\":\"identifying\",\"body\":\"{\"workerInfo\":{\"nickname\":\"\",\"free\":false,\"cpuLoad\":0,\"memory\":0}}\"|Err:invalid character 'w' after object key:value pair","time":"2021-01-30T14:33:26+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:33:58+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:33:58+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:33:58+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:33:59+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:275ccd78-b1b2-4541-a971-fe56d02adb58|Msg:{\"commandType\":\"identifying\",\"body\":\"{\"workerInfo\":{\"nickname\":\"\",\"free\":false,\"cpuLoad\":0,\"memory\":0}}\"|Err:invalid character 'w' after object key:value pair","time":"2021-01-30T14:34:11+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:275ccd78-b1b2-4541-a971-fe56d02adb58|Msg:{\"commandType\":\"identifying\",\"body\":\"{\"workerInfo\":{\"nickname\":\"\",\"free\":false,\"cpuLoad\":0,\"memory\":0}}\"|Err:invalid character 'w' after object key:value pair","time":"2021-01-30T14:35:34+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:36:00+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:36:00+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:36:00+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:36:00+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:46c370ee-15dc-4c9d-903a-e6c7215b6fa0|Msg:{\"commandType\":\"identifying\",\"body\":\"{\"workerInfo\":{\"nickname\":\"\",\"free\":false,\"cpuLoad\":0,\"memory\":0}}\"|Err:invalid character 'w' after object key:value pair","time":"2021-01-30T14:38:16+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:46c370ee-15dc-4c9d-903a-e6c7215b6fa0|Msg:{\"commandType\":\"workerInfo\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":false,\\\"cpuLoad\\\":0,\\\"memory\\\":0}}\"}|Err:无法理解命令含义","time":"2021-01-30T14:41:00+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:65","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:46c370ee-15dc-4c9d-903a-e6c7215b6fa0","time":"2021-01-30T14:42:44+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:65","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:cdd2064d-b897-4ab6-99ac-32f56dca722f","time":"2021-01-30T14:43:08+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:65","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:5eb67155-d043-4c02-9593-4c1d94b8ce24","time":"2021-01-30T14:43:15+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:44:19+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:44:19+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:44:19+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:44:19+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:65","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:ad1f967b-74f9-4a25-9f22-9ad17c8a2986","time":"2021-01-30T14:44:53+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:48:56+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:48:56+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:48:56+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:48:56+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:51:10+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:51:10+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:51:10+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:51:10+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T14:56:51+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T14:56:51+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T14:56:51+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T14:56:51+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:00:14+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:00:14+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:00:14+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:00:15+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:19","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"初始化WorkerWsList","time":"2021-01-30T15:00:26+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:35","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:00:26+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:35","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:01:38+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:35","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:02:06+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:35","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:02:20+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:35","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:02:46+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:04:12+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:04:12+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:04:12+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:04:13+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:20","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"初始化WorkerWsList","time":"2021-01-30T15:04:23+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:36","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:04:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:36","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:04:43+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:36","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:05:35+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:628ea934-6ef5-430e-9448-7190ed1b287b|Msg:{\"commandType\":\"identifying\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":false,\\\"cpuLoad\\\":0,\\\"memory\\\":1024}}\"}|Err:已存在该连接信息","time":"2021-01-30T15:06:11+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:628ea934-6ef5-430e-9448-7190ed1b287b|Msg:|Err:unexpected end of JSON input","time":"2021-01-30T15:10:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:628ea934-6ef5-430e-9448-7190ed1b287b|Msg:{\"commandType\":\"identifying\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":false,\\\"cpuLoad\\\":0,\\\"memory\\\":1024}}\"}|Err:已存在该连接信息","time":"2021-01-30T15:10:40+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:628ea934-6ef5-430e-9448-7190ed1b287b|Msg:{\"commandType\":\"identifying\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":false,\\\"cpuLoad\\\":0,\\\"memory\\\":1024}}\"}|Err:已存在该连接信息","time":"2021-01-30T15:11:33+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:628ea934-6ef5-430e-9448-7190ed1b287b|Msg:{\"commandType\":\"identifying\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":false,\\\"cpuLoad\\\":100,\\\"memory\\\":1024}}\"}|Err:已存在该连接信息","time":"2021-01-30T15:13:01+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:13:07+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:13:07+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:13:07+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:13:07+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:20","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"初始化WorkerWsList","time":"2021-01-30T15:13:12+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:36","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:13:13+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:19:48+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:19:48+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:19:48+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:19:48+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:20","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"初始化WorkerWsList","time":"2021-01-30T15:19:59+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:37","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:20:01+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:37","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:20:07+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:21:17+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:21:17+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:21:17+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:21:17+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:20","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"初始化WorkerWsList","time":"2021-01-30T15:21:19+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:36","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ false 0 0}}","time":"2021-01-30T15:21:20+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:22:28+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:22:28+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:22:28+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:22:28+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:20","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"初始化WorkerWsList","time":"2021-01-30T15:22:32+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:36","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ true 0 1024}}","time":"2021-01-30T15:22:34+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:73f163b9-5495-49c6-9fb4-719c1752616f|Msg:|Err:unexpected end of JSON input","time":"2021-01-30T15:22:46+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:51","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:73f163b9-5495-49c6-9fb4-719c1752616f|Msg:{\"commandType\":\"identifying\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":true,\\\"cpuLoad\\\":0,\\\"memory\\\":1024}}\"}|Err:已存在该连接信息","time":"2021-01-30T15:22:54+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:24:38+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:24:38+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:24:38+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:24:38+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:19","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"初始化WorkerWsList","time":"2021-01-30T15:25:27+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:35","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ true 0 1024}}","time":"2021-01-30T15:25:27+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:26:05+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:26:05+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:26:05+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:26:05+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:18","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"初始化WorkerWsList","time":"2021-01-30T15:26:09+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:30","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ true 0 1024}}","time":"2021-01-30T15:26:09+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:26:41+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:26:41+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:26:41+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:26:41+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:18","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"初始化WorkerWsList","time":"2021-01-30T15:26:44+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:30","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ true 0 1024}}","time":"2021-01-30T15:26:44+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:c97e6982-796e-4723-b6c6-6cfd215ca959|Msg:{\"commandType\":\"identifying\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":true,\\\"cpuLoad\\\":0,\\\"memory\\\":1024}}\"}|Err:已存在该连接信息","time":"2021-01-30T15:26:49+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:28:02+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:28:02+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:28:02+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:28:02+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:cad9c6b7-1333-40db-9cd7-d2f7d722f512|Msg:succeed|Err:invalid character 's' looking for beginning of value","time":"2021-01-30T15:28:06+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:18","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"初始化WorkerWsList","time":"2021-01-30T15:28:38+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:30","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ true 0 1024}}","time":"2021-01-30T15:28:38+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:47","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:cad9c6b7-1333-40db-9cd7-d2f7d722f512|Msg:{\"commandType\":\"identifying\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":true,\\\"cpuLoad\\\":0,\\\"memory\\\":1024}}\"}|Err:已存在该连接信息","time":"2021-01-30T15:30:46+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:31:23+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:31:23+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:31:23+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:31:23+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:37:47+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:37:47+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:37:47+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:37:48+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:38:29+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:38:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:38:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:38:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:114","func":"leopard/server.cls","level":"info","msg":"与26efa570-f169-464b-b8ab-c9bdd6b05ca4断开Ws连接","time":"2021-01-30T15:38:30+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:58","func":"leopard/server.handleConnection.func2","level":"warning","msg":"WorkerWsErr:websocket: close 1005 (no status)","time":"2021-01-30T15:38:31+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:63","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:26efa570-f169-464b-b8ab-c9bdd6b05ca4","time":"2021-01-30T15:38:31+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:114","func":"leopard/server.cls","level":"info","msg":"与7a1e3c2d-ab8a-4d8d-a77b-135f1f7423c3断开Ws连接","time":"2021-01-30T15:38:43+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:114","func":"leopard/server.cls","level":"info","msg":"与b0853282-0cbf-4ca3-9dcc-26abab6ea6fb断开Ws连接","time":"2021-01-30T15:38:48+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:114","func":"leopard/server.cls","level":"info","msg":"与11eff51a-f9d7-4b8f-9a84-ffbf4153db08断开Ws连接","time":"2021-01-30T15:38:51+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:114","func":"leopard/server.cls","level":"info","msg":"与a5cf2ce2-6530-45b0-ac52-bc2f6a6e5fb3断开Ws连接","time":"2021-01-30T15:38:53+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:114","func":"leopard/server.cls","level":"info","msg":"与2ce7d9b4-62ba-41ec-a682-ced159f4f57a断开Ws连接","time":"2021-01-30T15:38:55+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:114","func":"leopard/server.cls","level":"info","msg":"与e2b428de-aeb2-42a1-8c70-678f9782a478断开Ws连接","time":"2021-01-30T15:38:58+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:39:39+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:39:39+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:39:39+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:39:39+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:56","func":"leopard/server.handleConnection.func2","level":"warning","msg":"WorkerWsErr:websocket: close 1005 (no status)","time":"2021-01-30T15:39:47+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:112","func":"leopard/server.cls","level":"info","msg":"与f98b4362-9a26-4231-8b9e-766420de1991断开Ws连接","time":"2021-01-30T15:39:47+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:61","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:f98b4362-9a26-4231-8b9e-766420de1991","time":"2021-01-30T15:39:47+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:112","func":"leopard/server.cls","level":"info","msg":"与f98b4362-9a26-4231-8b9e-766420de1991断开Ws连接","time":"2021-01-30T15:39:47+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:56","func":"leopard/server.handleConnection.func2","level":"warning","msg":"WorkerWsErr:websocket: close 1005 (no status)","time":"2021-01-30T15:40:06+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:112","func":"leopard/server.cls","level":"info","msg":"与c55a24ea-a49b-437f-a367-05c66909b0d0断开Ws连接","time":"2021-01-30T15:40:06+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:61","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:c55a24ea-a49b-437f-a367-05c66909b0d0","time":"2021-01-30T15:40:06+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:112","func":"leopard/server.cls","level":"info","msg":"与c55a24ea-a49b-437f-a367-05c66909b0d0断开Ws连接","time":"2021-01-30T15:40:06+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:40:22+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:40:22+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:40:22+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:40:22+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:41:18+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:41:18+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:41:18+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:41:18+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:56","func":"leopard/server.handleConnection.func2","level":"warning","msg":"WorkerWsErr:websocket: close 1005 (no status)","time":"2021-01-30T15:41:27+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:59","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:d6f39837-4b09-40df-978d-f42e6358d54c","time":"2021-01-30T15:41:27+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:110","func":"leopard/server.cls","level":"info","msg":"与d6f39837-4b09-40df-978d-f42e6358d54c断开Ws连接","time":"2021-01-30T15:41:27+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:42:39+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:42:39+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:42:40+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:42:40+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:26","func":"leopard/server.handleConnection","level":"warning","msg":"与Worker建立连接71f85d02-1124-442c-b457-d7f486af56f9","time":"2021-01-30T15:42:44+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:18","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"初始化WorkerWsList","time":"2021-01-30T15:42:57+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:30","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ true 0 1024}}","time":"2021-01-30T15:42:57+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:46","func":"leopard/server.handleConnection.func1","level":"warning","msg":"WsID:71f85d02-1124-442c-b457-d7f486af56f9|Msg:{\"commandType\":\"identifying\",\"body\":\"{\\\"workerInfo\\\":{\\\"nickname\\\":\\\"\\\",\\\"free\\\":true,\\\"cpuLoad\\\":0,\\\"memory\\\":1024}}\"}|Err:已存在该连接信息","time":"2021-01-30T15:44:29+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:57","func":"leopard/server.handleConnection.func2","level":"warning","msg":"WorkerWsErr:websocket: close 1005 (no status)","time":"2021-01-30T15:44:35+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:60","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:71f85d02-1124-442c-b457-d7f486af56f9","time":"2021-01-30T15:44:35+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:111","func":"leopard/server.cls","level":"info","msg":"与71f85d02-1124-442c-b457-d7f486af56f9断开Ws连接","time":"2021-01-30T15:44:35+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:26","func":"leopard/server.handleConnection","level":"warning","msg":"与Worker建立连接c7b6bb20-ee0f-45e1-822b-51a9f54d1e2c","time":"2021-01-30T15:44:36+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/service/ws_worker_update_info.go:30","func":"leopard/service.(*WsWorkerInfo).WsWorkerNewInfo","level":"info","msg":"{{ true 0 1024}}","time":"2021-01-30T15:44:38+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T15:54:39+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T15:54:39+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T15:54:39+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T15:54:39+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:26","func":"leopard/server.handleConnection","level":"warning","msg":"与Worker建立连接b8cb590f-763c-45bd-9133-c51468a49c15","time":"2021-01-30T15:54:40+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:60","func":"leopard/server.handleConnection.func3","level":"info","msg":"WorkerWsDisconnect:b8cb590f-763c-45bd-9133-c51468a49c15","time":"2021-01-30T15:54:58+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/server/ws_worker_router.go:111","func":"leopard/server.cls","level":"info","msg":"与b8cb590f-763c-45bd-9133-c51468a49c15断开Ws连接","time":"2021-01-30T15:54:58+08:00"}
+{"level":"info","msg":"保存路径为：C:\\Users\\Administrator\\go\\src\\leopard\\log\\leopard.log","time":"2021-01-30T16:08:25+08:00"}
+{"level":"info","msg":"日志等级为：5","time":"2021-01-30T16:08:25+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/model/init.go:21","func":"leopard/model.Database","level":"info","msg":"Mysql连接成功","time":"2021-01-30T16:08:26+08:00"}
+{"file":"C:/Users/Administrator/go/src/leopard/cache/main.go:29","func":"leopard/cache.Redis","level":"info","msg":"Redis连接成功","time":"2021-01-30T16:08:26+08:00"}

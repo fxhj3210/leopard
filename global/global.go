@@ -5,5 +5,3 @@ import (
 )
 
 var Log = logrus.New()
-
-var WorkerWsList map[string]string
